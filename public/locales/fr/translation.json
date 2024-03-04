@@ -1,0 +1,120 @@
+{
+  "navBar": {
+    "home": " Accueil",
+    "about": " Mon Profil",
+    "project": " Mes Projets",
+    "resume": " Mon CV",
+    "skills": " Mes compétences",
+    "fr": " Français",
+    "en": " Anglais"
+  },
+  "footer": {
+    "created": "Designé et developpé par Alexy DE BARROS"
+  },
+  "home": {
+    "hello": "Salut !",
+    "iAm": "Je suis ",
+    "name": "Alexy, ",
+    "myWork": "voici mon travail"
+  },
+  "myLittleStory": {
+    "little": "Voici ma petite ",
+    "story": "histoire",
+    "sentence1": "Grâce à ma famille, j'ai souhaité travailler dans le monde de la cybersécurité.",
+    "sentence2-1": "À la suite d'un stage dans ce domaine, je me suis rendu compte qu'écrire du code m'intéressait plus que de le relire. J'ai donc décidé de ",
+    "sentence2-2": "découvrir le monde du développement.",
+    "sentence3": "Par la suite, j'ai choisi l'alternance afin de mettre un pied dans le monde du travail.",
+    "sentence4-1": "J'apprends beaucoup sur ",
+    "sentence4-2": "le développement Web  ",
+    "sentence4-3": "et ses nombreuses ",
+    "sentence4-4": "Librairies et Frameworks ",
+    "sentence4-5": "tels que ",
+    "sentence4-6": "React.",
+    "sentence5-1": "En parallèle, j'ai également tenu à m'initier sur d'autres ",
+    "sentence5-2": "langages bas niveaux ",
+    "sentence5-3": "en particulier ",
+    "sentence5-4": "C++ et C#. ",
+    "sentence5-5": "J'aimerais intégrer la branche du ",
+    "sentence5-6": "développement de jeux-vidéos.",
+    "sentence6-1": "N'hésitez pas ",
+    "sentence6-2": "à me suivre ",
+    "sentence7-1": "Vous pouvez ",
+    "sentence7-2": "me retrouver ",
+    "sentence7-3": "sur :"
+  },
+  "about": {
+    "sentence1-1": "Une petite présentation ",
+    "sentence1-2": "sur moi",
+    "sentence2-1": "À propos ",
+    "sentence2-2": "de mon entreprise",
+    "sentence3-1": "Mes ",
+    "sentence3-2": "compétences :",
+    "sentence4-1": "Les outils ",
+    "sentence4-2": "que j'utilise :"
+  },
+  "aboutMeCard": {
+    "sentence1-1": "Hey ! ",
+    "sentence1-2": "Je m'appelle ",
+    "sentence1-3": "Alexy DE BARROS, ",
+    "sentence1-4": "et je viens de ",
+    "sentence1-5": "Sartouville.",
+    "sentence2-1": "J'ai ",
+    "sentence2-2": "18 ans ",
+    "sentence2-3": "et je suis actuellement en BTS Services Informatiques aux Organisations option Solutions Logicielles et Applications Métiers.",
+    "sentence3-1": "Je suis actuellement en alternance chez ",
+    "sentence3-2": "FuturMaster.",
+    "sentence4": "J'ai aussi d'autres hobbies que le développement !",
+    "hobbie1": "Jeux - Vidéos",
+    "hobbie2": "Sport",
+    "hobbie3": "Musique",
+    "hobbie4": "Cinéma",
+    "hobbie5": "Voyages"
+  },
+  "aboutCompanyCard": {
+    "sentence1-1": "J'effectue mes deux années d'alternances au sein de ",
+    "sentence1-2": "FuturMaster. ",
+    "sentence2-1": "Cette entreprise créée en 1994 est éditeur de logiciel ",
+    "sentence2-2": "APS (Advanced Planning and Scheduling) ",
+    "sentence2-3": "destiné à l’optimisation de la supply chain. ",
+    "sentence3-1": "L'entreprise est présente dans ",
+    "sentence3-2": "plus de 90 pays ",
+    "sentence3-3": "et compte ",
+    "sentence3-4": "plus de 500 clients.",
+    "sentence4-1": "Parmis eux, on retrouve des grands groupes tels que ",
+    "sentence4-2": "Lactalis, L’Oréal, Royal Canin ou encore Haribo.",
+    "sentence5-1": "FuturMaster est une entreprise qui a encore du chemin à parcourir. ",
+    "sentence6-1": "En effet, elle est en pleine croissance et souhaite s'agrandir davantage à l'international. ",
+    "sentence7-1": "L'entreprise compte notamment continuer de développer ses activités dans ses filiales d'Amérique du Sud."
+  },
+  "projects": {
+    "sentence1-1": "Mes récents ",
+    "sentence1-2": "projets",
+    "sentence2": "Voici quelques un de mes programmes sur lesquels j'ai travaillé :",
+    "firstProject": {
+      "title": "Le registre de livres",
+      "description": "Il s'agit d'un de mes projets d'apprentissage React en entreprise. C'est un site permettant de consulter des livres, en rechercher un en particulier ou en créer de nouveaux. Son fonctionnement comprend le stockage local, la navigation et l'utilisation du context."
+    },
+    "secondProject": {
+      "title": "La maison jungle",
+      "description": "Il s'agit d'un autre de mes projets d'apprentissage React en entreprise. C'est un site permettant de filtrer une recherche ou ajouter des produits dans le panier. Son fonctionnement comprend le stockage local et l'utilisation de la date afin d'afficher différentes recommendations en fonction de la saison ainsi que des promotions."
+    },
+    "thirdProject": {
+      "title": "Pong",
+      "description": "Il s'agit d'un de mes projets d'apprentissage de mon côté. C'est un jeu de Pong en C++ avec la librairie SFML. Il est possible de jouer à deux joueurs et de voir le score actuel."
+    },
+    "fourthProject": {
+      "title": "Easyline",
+      "description": ""
+    },
+    "fifthProject": {
+      "title": "Finder",
+      "description": ""
+    }
+  },
+  "resume": {
+    "download": "Télécharger mon CV"
+  },
+  "skills": {
+    "download": "Télécharger mes compétences"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "navBar": {
+    "home": " Homepage",
+    "about": " My Profile",
+    "project": " My Projects",
+    "resume": " My Resume",
+    "skills": " My Skills",
+    "fr": "French",
+    "en": "English"
+  },
+  "footer": {
+    "created": "Designed and developped by Alexy DE BARROS"
+  },
+  "home": {
+    "hello": "Hi !",
+    "iAm": "I am ",
+    "name": "Alexy, ",
+    "myWork": "here's my work"
+  },
+  "myLittleStory": {
+    "little": "Some facts ",
+    "story": "about me",
+    "sentence1": "Following on my family steps, I decided to pursue my studies in cybersecurity.",
+    "sentence2-1": "After an internship in this field, I changed my mind. From this experience, I realised that I prefer writing code than auditing it. This is when I decided to ",
+    "sentence2-2": "dive into the world of development.",
+    "sentence3": "I manage to balance my studies between school and work to enter into the professionnal world.",
+    "sentence4-1": "I learned a lot about ",
+    "sentence4-2": "the web development ",
+    "sentence4-3": "and his numerous ",
+    "sentence4-4": "Librairies and Frameworks ",
+    "sentence4-5": "such as ",
+    "sentence4-6": "React.",
+    "sentence5-1": "In parallel, I'm also studying other ",
+    "sentence5-2": "low level languages ",
+    "sentence5-3": "specially ",
+    "sentence5-4": "C++ et C#. ",
+    "sentence5-5": "My profesionnal goal is ",
+    "sentence5-6": "to work in the video game industry.",
+    "sentence6-1": "Don't hesitate to ",
+    "sentence6-2": "follow me",
+    "sentence7-1": "You can ",
+    "sentence7-2": "find me ",
+    "sentence7-3": "on :"
+  },
+  "about": {
+    "sentence1-1": "A couple of words ",
+    "sentence1-2": "about me",
+    "sentence2-1": "About ",
+    "sentence2-2": "my company",
+    "sentence3-1": "My ",
+    "sentence3-2": "skills :",
+    "sentence4-1": "Tools ",
+    "sentence4-2": "I use :"
+  },
+  "aboutMeCard": {
+    "sentence1-1": "Hey ! ",
+    "sentence1-2": "My name is ",
+    "sentence1-3": "Alexy DE BARROS, ",
+    "sentence1-4": "and I come from",
+    "sentence1-5": "Sartrouville.",
+    "sentence2-1": "I'm ",
+    "sentence2-2": "18 years old ",
+    "sentence2-3": "currently attend BTS Services Informatiques aux Organisations option Solutions Logicielles et Applications Métiers.",
+    "sentence3-1": "I'm having my internship with ",
+    "sentence3-2": "FuturMaster.",
+    "sentence4": "Some of my hobbies are :",
+    "hobbie1": "Video games",
+    "hobbie2": "Sport",
+    "hobbie3": "Music",
+    "hobbie4": "Movies",
+    "hobbie5": "Travelling"
+  },
+  "aboutCompanyCard": {
+    "sentence1-1": "I'm doing my two-year work-study program at ",
+    "sentence1-2": "FuturMaster. ",
+    "sentence2-1": "This company, founded in 1994, is a software publisher ",
+    "sentence2-2": "APS (Advanced Planning and Scheduling) ",
+    "sentence2-3": "for supply chain optimization. ",
+    "sentence3-1": "The company is present in ",
+    "sentence3-2": "more than 90 countries ",
+    "sentence3-3": "and ",
+    "sentence3-4": "more than 500 customers.",
+    "sentence4-1": "These include major groups such as ",
+    "sentence4-2": "Lactalis, L’Oréal, Royal Canin or even Haribo.",
+    "sentence5-1": "FuturMaster is a company with a long way to go. ",
+    "sentence6-1": "In fact, the company is growing fast and is looking to expand further internationally. ",
+    "sentence7-1": "In particular, the company intends to continue developing its activities in its South American subsidiaries."
+  },
+  "projects": {
+    "sentence1-1": "My recents ",
+    "sentence1-2": "projects",
+    "sentence2": "These are some of my software programms I worked on :",
+    "firstProject": {
+      "title": "Book register",
+      "description": "This is one of my apprenticeship project with React. This website allow you to consult books, to look for one particular or you can register a new one. For this site, I am using local storage, navigation and context."
+    },
+    "secondProject": {
+      "title": "Jungle House",
+      "description": "This is an other React project I work on during my apprenticeship. With React, I am abble to implement techniques for filtering and add plants into your cart. Technologies used in this project are : local storage and the date to customized the recommendation based on the seasons and available discounts."
+    },
+    "thirdProject": {
+      "title": "Pong",
+      "description": "This is a project I have chosen on my own. I wanted to learn about C++ and SFML librairy. This is a two player pong game with a scoring system."
+    },
+    "fourthProject": {
+      "title": "Easyline",
+      "description": ""
+    },
+    "fifthProject": {
+      "title": "Finder",
+      "description": ""
+    }
+  },
+  "resume": {
+    "download": "Download my resume"
+  },
+  "skills": {
+    "download": "Download my skills"
+  }
+}
