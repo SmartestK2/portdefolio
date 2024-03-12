@@ -21,9 +21,6 @@ export default function AboutMeCard() {
             <span className="purple"> {t("aboutMeCard.sentence2-2")}</span>
             {t("aboutMeCard.sentence2-3")}
             <br />
-            {t("aboutMeCard.sentence3-1")}
-            <span className="purple"> {t("aboutMeCard.sentence3-2")}</span>
-            <br />
             <br />
             {t("aboutMeCard.sentence4")}
           </p>

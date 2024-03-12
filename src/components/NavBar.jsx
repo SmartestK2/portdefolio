@@ -132,7 +132,7 @@ export default function NavBar() {
 
             <Nav.Item style={{ alignSelf: "center" }} className="fork-btn">
               <Button
-                href="https://github.com/Junelight-07"
+                href="https://github.com/SmartestK2"
                 target="_blank"
                 className="fork-btn-inner"
               >

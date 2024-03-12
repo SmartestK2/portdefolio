@@ -9,12 +9,12 @@
     "en": "English"
   },
   "footer": {
-    "created": "Designed and developped by Alexy DE BARROS"
+    "created": "Designed and developped by Chrislin"
   },
   "home": {
     "hello": "Hi !",
     "iAm": "I am ",
-    "name": "Alexy, ",
+    "name": "Chrislin, ",
     "myWork": "here's my work"
   },
   "myLittleStory": {
@@ -55,14 +55,12 @@
   "aboutMeCard": {
     "sentence1-1": "Hey ! ",
     "sentence1-2": "My name is ",
-    "sentence1-3": "Alexy DE BARROS, ",
+    "sentence1-3": "Chrislin Mabounda, ",
     "sentence1-4": "and I come from",
-    "sentence1-5": "Sartrouville.",
+    "sentence1-5": "Andeville.",
     "sentence2-1": "I'm ",
-    "sentence2-2": "18 years old ",
+    "sentence2-2": "21 years old ",
     "sentence2-3": "currently attend BTS Services Informatiques aux Organisations option Solutions Logicielles et Applications Métiers.",
-    "sentence3-1": "I'm having my internship with ",
-    "sentence3-2": "FuturMaster.",
     "sentence4": "Some of my hobbies are :",
     "hobbie1": "Video games",
     "hobbie2": "Sport",
@@ -70,22 +68,7 @@
     "hobbie4": "Movies",
     "hobbie5": "Travelling"
   },
-  "aboutCompanyCard": {
-    "sentence1-1": "I'm doing my two-year work-study program at ",
-    "sentence1-2": "FuturMaster. ",
-    "sentence2-1": "This company, founded in 1994, is a software publisher ",
-    "sentence2-2": "APS (Advanced Planning and Scheduling) ",
-    "sentence2-3": "for supply chain optimization. ",
-    "sentence3-1": "The company is present in ",
-    "sentence3-2": "more than 90 countries ",
-    "sentence3-3": "and ",
-    "sentence3-4": "more than 500 customers.",
-    "sentence4-1": "These include major groups such as ",
-    "sentence4-2": "Lactalis, L’Oréal, Royal Canin or even Haribo.",
-    "sentence5-1": "FuturMaster is a company with a long way to go. ",
-    "sentence6-1": "In fact, the company is growing fast and is looking to expand further internationally. ",
-    "sentence7-1": "In particular, the company intends to continue developing its activities in its South American subsidiaries."
-  },
+ 
   "projects": {
     "sentence1-1": "My recents ",
     "sentence1-2": "projects",
@@ -104,10 +87,6 @@
     },
     "fourthProject": {
       "title": "Easyline",
-      "description": ""
-    },
-    "fifthProject": {
-      "title": "Finder",
       "description": ""
     }
   },

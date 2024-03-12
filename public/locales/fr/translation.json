@@ -9,12 +9,12 @@
     "en": " Anglais"
   },
   "footer": {
-    "created": "Designé et developpé par Alexy DE BARROS"
+    "created": "Designé et developpé par Chrislin Mabounda"
   },
   "home": {
     "hello": "Salut !",
     "iAm": "Je suis ",
-    "name": "Alexy, ",
+    "name": "Chrislin, ",
     "myWork": "voici mon travail"
   },
   "myLittleStory": {
@@ -55,14 +55,12 @@
   "aboutMeCard": {
     "sentence1-1": "Hey ! ",
     "sentence1-2": "Je m'appelle ",
-    "sentence1-3": "Alexy DE BARROS, ",
+    "sentence1-3": "Chrislin Mabounda, ",
     "sentence1-4": "et je viens de ",
-    "sentence1-5": "Sartouville.",
+    "sentence1-5": "Andeville.",
     "sentence2-1": "J'ai ",
-    "sentence2-2": "18 ans ",
+    "sentence2-2": "21 ans ",
     "sentence2-3": "et je suis actuellement en BTS Services Informatiques aux Organisations option Solutions Logicielles et Applications Métiers.",
-    "sentence3-1": "Je suis actuellement en alternance chez ",
-    "sentence3-2": "FuturMaster.",
     "sentence4": "J'ai aussi d'autres hobbies que le développement !",
     "hobbie1": "Jeux - Vidéos",
     "hobbie2": "Sport",
@@ -70,22 +68,7 @@
     "hobbie4": "Cinéma",
     "hobbie5": "Voyages"
   },
-  "aboutCompanyCard": {
-    "sentence1-1": "J'effectue mes deux années d'alternances au sein de ",
-    "sentence1-2": "FuturMaster. ",
-    "sentence2-1": "Cette entreprise créée en 1994 est éditeur de logiciel ",
-    "sentence2-2": "APS (Advanced Planning and Scheduling) ",
-    "sentence2-3": "destiné à l’optimisation de la supply chain. ",
-    "sentence3-1": "L'entreprise est présente dans ",
-    "sentence3-2": "plus de 90 pays ",
-    "sentence3-3": "et compte ",
-    "sentence3-4": "plus de 500 clients.",
-    "sentence4-1": "Parmis eux, on retrouve des grands groupes tels que ",
-    "sentence4-2": "Lactalis, L’Oréal, Royal Canin ou encore Haribo.",
-    "sentence5-1": "FuturMaster est une entreprise qui a encore du chemin à parcourir. ",
-    "sentence6-1": "En effet, elle est en pleine croissance et souhaite s'agrandir davantage à l'international. ",
-    "sentence7-1": "L'entreprise compte notamment continuer de développer ses activités dans ses filiales d'Amérique du Sud."
-  },
+  
   "projects": {
     "sentence1-1": "Mes récents ",
     "sentence1-2": "projets",
@@ -105,11 +88,8 @@
     "fourthProject": {
       "title": "Easyline",
       "description": ""
-    },
-    "fifthProject": {
-      "title": "Finder",
-      "description": ""
     }
+  
   },
   "resume": {
     "download": "Télécharger mon CV"

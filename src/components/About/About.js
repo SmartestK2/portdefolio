@@ -3,7 +3,6 @@ import { Col, Container, Row } from "react-bootstrap";
 import Particle from "../Particle";
 import Techstack from "./Techstack";
 import AboutMeCard from "./AboutMeCard";
-import AboutCompanyCard from "./AboutCompanyCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import { useTranslation } from "react-i18next";
@@ -53,13 +52,7 @@ export default function About() {
               paddingTop: "30px",
               paddingBottom: "50px",
             }}
-          >
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              {t("about.sentence2-1")}
-              <strong className="purple">{t("about.sentence2-2")}</strong>
-            </h1>
-            <AboutCompanyCard />
-          </Col>
+          ></Col>
         </Row>
         <h1 className="project-heading">
           {t("about.sentence3-1")}
