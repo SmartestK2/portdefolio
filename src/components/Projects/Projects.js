@@ -4,6 +4,7 @@ import { useTranslation } from "react-i18next";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import easyline from "../../Assets/Projects/easyline.jpg";
+import miamImage from "../../Assets/Projects/miam.png"; // Ajout de l'import pour l'image miam.jpg
 
 export default function Projects() {
   const { t } = useTranslation();
@@ -24,8 +25,16 @@ export default function Projects() {
               isBlog={false}
               title={t("projects.fourthProject.title")}
               description={t("projects.fourthProject.description")}
-              ghLink="https://github.com/Junelight-07"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              ghLink="https://github.com/Smartestk2"
+            />
+          </Col>
+          <Col md={5} className="project-card">
+            <ProjectCard
+              imgPath={miamImage} // Remplacement de Miam par la variable miamImage
+              isBlog={false}
+              title={t("projects.5Project.title")}
+              description={t("projects.5Project.description")}
+              ghLink="https://documenter.getpostman.com/view/27001673/2sA35G539G#auth-info-d346d01d-5bfd-4c5b-b553-bb0d30c35fa6"
             />
           </Col>
         </Row>

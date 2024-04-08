@@ -3,7 +3,7 @@ import { Container, Row } from "react-bootstrap";
 import { useTranslation } from "react-i18next";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/competences.pdf";
+import docx from "../../Assets/competences.docx";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -22,7 +22,7 @@ export default function Skills() {
     return (
       <Button
         variant="primary"
-        href={pdf}
+        href={docx} // Utilisez docx au lieu de pdf ici
         target="_blank"
         style={{ maxWidth: "250px" }}
       >
@@ -41,7 +41,7 @@ export default function Skills() {
         </Row>
 
         <Row className="resume">
-          <Document file={pdf} className="d-flex justify-content-center">
+          <Document file={docx} className="d-flex justify-content-center"> // Utilisez docx au lieu de pdf ici
             <Page pageNumber={1} scale={width > 786 ? 0.9 : 0.6} />
           </Document>
         </Row>

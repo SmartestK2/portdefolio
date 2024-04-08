@@ -20,7 +20,7 @@
   "myLittleStory": {
     "little": "Some facts ",
     "story": "about me",
-    "sentence1": "Following on my family steps, I decided to pursue my studies in cybersecurity.",
+    "sentence1": "Following on my brother's steps, I decided to pursue my studies in cybersecurity.",
     "sentence2-1": "After an internship in this field, I changed my mind. From this experience, I realised that I prefer writing code than auditing it. This is when I decided to ",
     "sentence2-2": "dive into the world of development.",
     "sentence3": "I manage to balance my studies between school and work to enter into the professionnal world.",
@@ -35,7 +35,7 @@
     "sentence5-3": "specially ",
     "sentence5-4": "C++ et C#. ",
     "sentence5-5": "My profesionnal goal is ",
-    "sentence5-6": "to work in the video game industry.",
+    "sentence5-6": "to work in the data science.",
     "sentence6-1": "Don't hesitate to ",
     "sentence6-2": "follow me",
     "sentence7-1": "You can ",
@@ -87,7 +87,11 @@
     },
     "fourthProject": {
       "title": "Easyline",
-      "description": ""
+      "description": "This is a project carried out in a school setting in Java. It is a flight reservation platform via a JavaFX interface."
+    },
+    "5Project": {
+      "title": "MiamMiam!",
+      "description": "This is a group learning project in Vue.js and Symfony. It's a platform where you can order small dishes."
     }
   },
   "resume": {

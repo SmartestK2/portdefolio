@@ -20,7 +20,7 @@
   "myLittleStory": {
     "little": "Voici ma petite ",
     "story": "histoire",
-    "sentence1": "Grâce à ma famille, j'ai souhaité travailler dans le monde de la cybersécurité.",
+    "sentence1": "Grâce à mon frère, j'ai souhaité travailler dans le monde de la cybersécurité.",
     "sentence2-1": "À la suite d'un stage dans ce domaine, je me suis rendu compte qu'écrire du code m'intéressait plus que de le relire. J'ai donc décidé de ",
     "sentence2-2": "découvrir le monde du développement.",
     "sentence3": "Par la suite, j'ai choisi l'alternance afin de mettre un pied dans le monde du travail.",
@@ -35,7 +35,7 @@
     "sentence5-3": "en particulier ",
     "sentence5-4": "C++ et C#. ",
     "sentence5-5": "J'aimerais intégrer la branche du ",
-    "sentence5-6": "développement de jeux-vidéos.",
+    "sentence5-6": "développement de la Data science.",
     "sentence6-1": "N'hésitez pas ",
     "sentence6-2": "à me suivre ",
     "sentence7-1": "Vous pouvez ",
@@ -87,7 +87,11 @@
     },
     "fourthProject": {
       "title": "Easyline",
-      "description": ""
+      "description": "Il s'agit d'un projet realisé dans un cadre scolaire en Java. C'est une plateforme de reservation de vole via une interface JavaFX."
+    },
+    "5Project": {
+      "title": "MiamMiam!",
+      "description": "Il s'agit d'un projets d'apprentissage en Vue.js et Symfony en groupe. C'est une platforme ou vous pouvez commander des petits plats."
     }
   
   },
