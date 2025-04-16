@@ -3,7 +3,7 @@ import { Container, Row } from "react-bootstrap";
 import { useTranslation } from "react-i18next";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/CV Alter.pdf";
+import pdf from "../../Assets/CV_Mabounda_Chrislin.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
